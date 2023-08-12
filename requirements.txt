@@ -1,0 +1,4 @@
+selenium
+flask
+pymongo
+chromedriver-py
